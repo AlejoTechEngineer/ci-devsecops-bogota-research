@@ -1,0 +1,42 @@
+# ─────────────────────────────────────────────────────────────
+# Documentos editables de Word — NADA de esto se sube al repo
+# ─────────────────────────────────────────────────────────────
+*.docx
+*.doc
+
+# Archivos temporales de bloqueo de Word (owner files)
+~$*.docx
+~$*.doc
+~$*
+
+# ─────────────────────────────────────────────────────────────
+# Carpetas de trabajo local / histórico de versiones editables
+# NO deben subirse bajo ninguna circunstancia
+# ─────────────────────────────────────────────────────────────
+Actividad/
+Actividad*/
+Borradores/
+borrador*/
+Borrador*/
+draft/
+drafts/
+Versiones/
+versiones/
+
+# Otros borradores sueltos
+*_borrador.*
+*-borrador.*
+*_draft.*
+metodologia_act2.docx
+
+# ─────────────────────────────────────────────────────────────
+# Sistema operativo
+# ─────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ─────────────────────────────────────────────────────────────
+# NOTA: el único archivo versionado es el PDF final,
+# agregado explícitamente con `git add`.
+# ─────────────────────────────────────────────────────────────
