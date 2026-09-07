@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Idea de Investigación — Adopción de Integración Continua y DevSecOps
+# 🔐 Idea de Investigación: Adopción de Integración Continua y DevSecOps
 
 ### *Nivel de adopción de prácticas de CI y DevSecOps en empresas de desarrollo de software de Bogotá D.C.*
 
