@@ -4,7 +4,7 @@
 
 ### *Nivel de adopción de prácticas de CI y DevSecOps en empresas de desarrollo de software de Bogotá D.C.*
 
-**Asignatura: Aproximación a la Metodología de Investigación · Actividad Laboratorio No. 2 — Idea de Investigación**
+**Asignatura: Aproximación a la Metodología de Investigación · Actividad Laboratorio No. 2: Idea de Investigación**
 
 [![Asignatura](https://img.shields.io/badge/Asignatura-Aprox.%20Metodología%20de%20Investigación-0052CC.svg)]()
 [![Actividad](https://img.shields.io/badge/Actividad-Laboratorio%20No.%202-004488.svg)]()
